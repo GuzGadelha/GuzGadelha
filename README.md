@@ -1,8 +1,5 @@
 ## Hello there, Guz here! 💫
-- 🔭 Hoje eu curso ciências da computação na UFERSA
-- 🌱 Aprendendo programação estruturada
-- 🤔 Procuro oportunidades de crescimento profissional e pessoal
-- ⚡ Entrei na faculdade com o objetivo de fazer jogos, quero criar historias que inspirem as pessoas com gameplays muito divertidas
+- To learn how to make a good game. That's what made me go into computer science, inspire people with a good history, and understand how to make life easier with technology.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
