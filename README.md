@@ -1,4 +1,4 @@
-## Ooi, Gustavo aqui! 💫
+## Hello there, Guz here! 💫
 - 🔭 Hoje eu curso ciências da computação na UFERSA
 - 🌱 Aprendendo programação estruturada
 - 🤔 Procuro oportunidades de crescimento profissional e pessoal
