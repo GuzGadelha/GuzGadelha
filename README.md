@@ -1,27 +1,27 @@
 
 <p align="right">
   <a href="SEU_LINK_INSTAGRAM" aria-label="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="21" alt=""/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="21" alt="instagram"/>
   </a>
   &nbsp;&nbsp;
   <a href="SEU_LINK_LINKEDIN" aria-label="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="21" alt=""/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="21" alt="linkedin"/>
   </a>
   &nbsp;&nbsp;
   <a href="SEU_LINK_OUTLOOK" aria-label="Outlook">
-    <img src="https://img.icons8.com/fluency/48/mail.png" height="21" alt=""/>
+    <img src="https://img.icons8.com/fluency/48/mail.png" height="21" alt="outlook"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:SEU_EMAIL_GMAIL" aria-label="Gmail">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="21" alt=""/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="21" alt="gmail"/>
   </a>
   &nbsp;&nbsp;
   <a href="SEU_LINK_INTELLIJ" aria-label="IntelliJ IDEA">
-    <img src="https://cdn.simpleicons.org/intellijidea/FE2857" height="21" alt=""/>
+    <img src="https://cdn.simpleicons.org/intellijidea/FE2857" height="21" alt="intellij"/>
   </a>
   &nbsp;&nbsp;
   <a href="SEU_LINK_VSCODE" aria-label="Visual Studio Code">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="21" alt=""/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="21" alt="vscode"/>
   </a>
 </p>
 
@@ -33,43 +33,53 @@
 
 <br>
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td width="50%" align="center" valign="middle">
       <strong>🌐 Frontend Development</strong>
       <br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="25" alt=""/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="25" alt=""/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="25" alt=""/>
     </td>
     <td width="50%" align="center" valign="middle">
       <strong>💻 Programming Languages</strong>
       <br/><br/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="25" alt=""/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="25" alt=""/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt=""/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="25" alt=""/>
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="center" valign="middle">
       <strong>📱 Mobile & Backend</strong>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio"/>
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="25" alt=""/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="25" alt=""/>
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="25" alt=""/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="25" alt=""/>
     </td>
     <td width="50%" align="center" valign="middle">
       <strong>🤖 AI & Cybersecurity</strong>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Machine_Learning-FF9900?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
-      <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
-      <img src="https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="25" alt=""/>
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="25" alt=""/>
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="25" alt=""/>
     </td>
   </tr>
 </table>
-
 
 <p align="center">
   <picture>
