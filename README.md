@@ -83,5 +83,5 @@ I'm constantly learning, exploring new technologies, and turning ideas into prac
 </p>
 
 <p align="center">
-  <i>Always learning. Always building. Always improving. 🚀</i>
+  <i>The sky keeps falling, so keep climbing!</i>
 </p>
