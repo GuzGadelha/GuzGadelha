@@ -27,9 +27,17 @@
 
 <h2 align="left">Hello there, Guz here! 💫</h2>
 
-<p>
-  'I wanted to learn how to create a good game.' That's what inspired me to study computer science in the first place. Now I realise that we have so many choices to transform the world around us, and my goal is to make life easier by using technology such as apps, websites, automated systems and, of course, AI.
-</p>
+### About Me:
+
+> "I wanted to learn how to create a good game."
+
+That was the thought that first inspired me to pursue Computer Science.
+
+Over time, I realized that technology offers countless opportunities to transform the world around us. Today, my goal is to build solutions that make people's lives easier through applications, websites, automated systems, and, of course, Artificial Intelligence.
+
+I'm constantly learning, exploring new technologies, and turning ideas into practical projects.
+
+---
 
 <br>
 
