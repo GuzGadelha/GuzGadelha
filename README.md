@@ -1,38 +1,26 @@
-
-<p align="right">
-  <a href="SEU_LINK_INSTAGRAM" aria-label="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="21" alt="instagram"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="SEU_LINK_LINKEDIN" aria-label="LinkedIn">
+<p align="right">  
+  <a href="https://www.linkedin.com/in/gustavo-gadelha-3870a1312/" aria-label="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="21" alt="linkedin"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="SEU_LINK_OUTLOOK" aria-label="Outlook">
+  <a href="mailto:gustavogadelha7@outlook.com" aria-label="Outlook">
     <img src="https://img.icons8.com/fluency/48/mail.png" height="21" alt="outlook"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL_GMAIL" aria-label="Gmail">
+  <a href="mailto:guztv04@gmail.com" aria-label="Gmail">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="21" alt="gmail"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="SEU_LINK_INTELLIJ" aria-label="IntelliJ IDEA">
-    <img src="https://cdn.simpleicons.org/intellijidea/FE2857" height="21" alt="intellij"/>
+  <a href="https://www.instagram.com/guztv_/" aria-label="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="21" alt="instagram"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="SEU_LINK_VSCODE" aria-label="Visual Studio Code">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="21" alt="vscode"/>
-  </a>
+  <img src="https://cdn.simpleicons.org/intellijidea" height="21" alt="intellij"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="21" alt="vscode"/>  
 </p>
 
 <h2 align="left">Hello there, Guz here! 💫</h2>
 
 ### About Me:
-
 > "I wanted to learn how to create a good game."
 
 That was the thought that first inspired me to pursue Computer Science.
-
 Over time, I realized that technology offers countless opportunities to transform the world around us. Today, my goal is to build solutions that make people's lives easier through applications, websites, automated systems, and, of course, Artificial Intelligence.
 
 I'm constantly learning, exploring new technologies, and turning ideas into practical projects.
