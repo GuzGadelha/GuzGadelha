@@ -33,53 +33,54 @@
 
 <br>
 
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <strong>🌐 Frontend Development</strong>
-      <br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="25" alt=""/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="25" alt=""/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="25" alt=""/>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <strong>💻 Programming Languages</strong>
-      <br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="25" alt=""/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="25" alt=""/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt=""/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="25" alt=""/>
-    </td>
-  </tr>
 
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <strong>📱 Mobile & Backend</strong>
-      <br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="25" alt=""/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="25" alt=""/>
-      &nbsp;
-      <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="25" alt=""/>
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="25" alt=""/>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <strong>🤖 AI & Cybersecurity</strong>
-      <br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="25" alt=""/>
-      &nbsp;
-      <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="25" alt=""/>
-      &nbsp;
-      <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="25" alt=""/>
-    </td>
-  </tr>
-</table>
+<h3 align="center">
+  🌐 Frontend Development
+  &nbsp;&nbsp;┃&nbsp;&nbsp;
+  💻 Programming Languages
+  &nbsp;&nbsp;┃&nbsp;&nbsp;
+  📱 Mobile & Backend
+  &nbsp;&nbsp;┃&nbsp;&nbsp;
+  🤖 AI & Cybersecurity
+</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="28" alt="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="28" alt="CSS3"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="28" alt="JavaScript"/>
+
+  &nbsp;&nbsp;┃&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="28" alt="C++"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="28" alt="Java"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="28" alt="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="28" alt="Dart"/>
+
+  &nbsp;&nbsp;┃&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="28" alt="Flutter"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="28" alt="Android Studio"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="28" alt="Supabase"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="28" alt="Git"/>
+
+  &nbsp;&nbsp;┃&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="28" alt="Machine Learning"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="28" alt="OpenAI"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="28" alt="Kali Linux"/>
+</p>
+
+<br/>
 
 <p align="center">
   <picture>
@@ -87,8 +88,8 @@
             srcset="https://raw.githubusercontent.com/GuzGadelha/GuzGadelha/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/GuzGadelha/GuzGadelha/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Contribution Snake Animation"
-         src="https://raw.githubusercontent.com/GuzGadelha/GuzGadelha/output/github-contribution-grid-snake.svg"
-         width="100%"/>
+    <img src="https://raw.githubusercontent.com/GuzGadelha/GuzGadelha/output/github-contribution-grid-snake.svg"
+         width="100%"
+         alt="GitHub Contribution Snake Animation"/>
   </picture>
 </p>
