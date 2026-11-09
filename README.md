@@ -1,44 +1,28 @@
-
-<p align="right">
-  <a href="SEU_LINK_INSTAGRAM" target="_blank" aria-label="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F"
-         width="20" alt=""/>
+<p align="right">  
+  <a href="https://www.linkedin.com/in/gustavo-gadelha-3870a1312/" aria-label="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="21" alt="linkedin"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="SEU_LINK_LINKEDIN" target="_blank" aria-label="LinkedIn">
-    <img src="https://img.icons8.com/color/48/linkedin.png"
-         width="20" alt=""/>
+  &nbsp;
+  <a href="mailto:gustavogadelha7@outlook.com" aria-label="Outlook">
+    <img src="https://img.icons8.com/fluency/48/mail.png" height="21" alt="outlook"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="SEU_LINK_OUTLOOK" target="_blank" aria-label="Outlook">
-    <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/envelope-fill.svg"
-         width="20" alt=""/>
+  &nbsp;
+  <a href="mailto:guztv04@gmail.com" aria-label="Gmail">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="21" alt="gmail"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL_GMAIL" aria-label="Gmail">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335"
-         width="20" alt=""/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="SEU_LINK_INTELLIJ" target="_blank" aria-label="IntelliJ IDEA">
-    <img src="https://cdn.simpleicons.org/intellijidea/000000"
-         width="20" alt=""/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="SEU_LINK_VSCODE" target="_blank" aria-label="Visual Studio Code">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-         width="20" alt=""/>
+  &nbsp;
+  <a href="https://www.instagram.com/guztv_/" aria-label="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="21" alt="instagram"/>
   </a>
 </p>
 
 <h2 align="left">Hello there, I'm Guz! 💫</h2>
 
-### 👨‍💻 About Me
+### About Me:
 
 > "I wanted to learn how to create a good game."
 
 That was the thought that first inspired me to pursue Computer Science.
-
 Over time, I realized that technology offers countless opportunities to transform the world around us. Today, my goal is to build solutions that make people's lives easier through applications, websites, automated systems, and, of course, Artificial Intelligence.
 
 I'm constantly learning, exploring new technologies, and turning ideas into practical projects.
@@ -47,7 +31,7 @@ I'm constantly learning, exploring new technologies, and turning ideas into prac
 
 ### 🛠️ Tech Stack & Tools
 
-**🌐 Frontend Development**
+**Frontend Development**
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -55,7 +39,7 @@ I'm constantly learning, exploring new technologies, and turning ideas into prac
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-**💻 Programming Languages**
+**Programming Languages**
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -64,7 +48,7 @@ I'm constantly learning, exploring new technologies, and turning ideas into prac
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
-**📱 Mobile Development & Backend**
+**Mobile Development & Backend**
 
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -72,7 +56,7 @@ I'm constantly learning, exploring new technologies, and turning ideas into prac
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-**🤖 Artificial Intelligence & Security**
+**Artificial Intelligence & Security**
 
 <p>
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
